@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Dead
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGound
+    uniqueID: 2397978845
+    locked: 0
+  - name: Wall1
+    uniqueID: 1753862371
+    locked: 0
+  - name: Wall2
+    uniqueID: 1033868313
+    locked: 0
+  - name: Door
+    uniqueID: 2191848039
+    locked: 0
+  - name: Objects
+    uniqueID: 2978059271
+    locked: 0
+  - name: Enemy
+    uniqueID: 1665484371
+    locked: 0
+  - name: Player
+    uniqueID: 2009256701
+    locked: 0
